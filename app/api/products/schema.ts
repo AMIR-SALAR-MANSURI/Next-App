@@ -1,7 +1,7 @@
 import { z } from "zod";
 
 const schema = z.object({
-  naem: z.string().min(3),
+  name: z.string().min(3),
   price: z.number().min(1).max(100),
 });
 

@@ -14,6 +14,7 @@
     "@types/react": "18.2.27",
     "@types/react-dom": "18.2.12",
     "autoprefixer": "10.4.16",
+    "aws-sdk": "^2.1677.0",
     "eslint": "8.51.0",
     "eslint-config-next": "13.5.4",
     "fast-sort": "^3.4.0",
